@@ -1,4 +1,33 @@
 @font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-Black.eot');
+    src: url('../fonts/TTNorms-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-Black.woff') format('woff'),
+        url('../fonts/TTNorms-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-Regular.eot');
+    src: local('TT Norms Regular'), local('TTNorms-Regular'),
+        url('../fonts/TTNorms-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-Regular.woff') format('woff'),
+        url('../fonts/TTNorms-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-Medium.eot');
+    src: local('TT Norms Medium'), local('TTNorms-Medium'),
+        url('../fonts/TTNorms-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-Medium.woff') format('woff'),
+        url('../fonts/TTNorms-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
     font-family: 'Roboto Black';
     src: url('../fonts/Roboto-Black.eot');
     src: url('../fonts/Roboto-Black.eot?#iefix') format('embedded-opentype'),
